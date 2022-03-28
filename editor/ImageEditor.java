@@ -2,7 +2,6 @@ package editor;
 
 import shapes.CompoundShape;
 import shapes.Shape;
-
 import javax.swing.*;
 import javax.swing.border.Border;
 import java.awt.*;
